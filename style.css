@@ -97,7 +97,7 @@ li{
     box-shadow: 7px 3px white;
 }
 
-@media(max-width:415px){
+@media(max-width:660px){
     h1{
         font-size: 30px;
          text-decoration:2px wavy underline ;
